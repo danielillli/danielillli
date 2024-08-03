@@ -9,7 +9,7 @@ I'm @danielillli, a passionate developer with a keen interest in technology and 
 - **💞️ Collaboration:** I’m looking to collaborate on open-source projects related to game development and tech tools.
 - **📫 Contact Me:** You can reach me via discord at danielillli.
 - **😄 Pronouns:** He/Him
-- **⚡ Fun Fact:** I'm a huge fan of retro video games and enjoy creating pixel art!
+- **⚡ Fun Fact:** I'm a huge fan of retro video games and enjoy gaming a lot!
 
 ## Projects and Certifications
 

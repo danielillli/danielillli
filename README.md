@@ -11,13 +11,38 @@ I'm @danielillli, a passionate developer with a keen interest in technology and 
 - **😄 Pronouns:** He/Him
 - **⚡ Fun Fact:** I'm a huge fan of retro video games and enjoy creating pixel art!
 
-## My Projects
+## Projects and Certifications
 
-Here are some of the projects I’m working on:
+### Web Development
 
-1. **Flask Weather App** - A web application to fetch and display weather information using Flask and OpenWeatherMap API.
-2. **Game Review Aggregator** - A script to aggregate and summarize game reviews from various platforms.
-3. **PC Hardware Compatibility Checker** - A tool to check compatibility between selected PC hardware components.
+- Building and maintaining responsive websites using frameworks like Flask and Django.
+- Developing interactive front-end applications with React and Vue.js.
+
+### FiveM Development
+
+- Creating custom scripts and mods for FiveM servers.
+- Engaging with the FiveM community to enhance multiplayer gameplay experiences.
+
+### Unity Certified Programmer 🧑🏼‍💻
+
+- Designing and developing immersive 3D games using Unity.
+- Certified expertise in Unity for building engaging game experiences.
+
+### Oracle Certified Professional SQL :postgreSQL:
+
+- Extensive experience in database management and optimization using PostgreSQL.
+- Certified by Oracle for SQL proficiency and best practices.
+
+### Certified C++ Programmer :cPlusPlus:
+
+- Developing high-performance applications and systems in C++.
+- Certified in C++ programming for robust software solutions.
+
+### Azure Developer 🔑
+
+- Building and deploying scalable cloud applications on Microsoft Azure.
+- Experienced in integrating Azure services for comprehensive cloud solutions.
+
 
 Feel free to check out my repositories and contribute or give feedback!
 

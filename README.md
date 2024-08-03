@@ -28,17 +28,15 @@ I'm @danielillli, a passionate developer with a keen interest in technology and 
 - Designing and developing immersive 3D games using Unity.
 - Certified expertise in Unity for building engaging game experiences.
 
-### Oracle Certified Professional SQL :postgreSQL:
+### Oracle Certified Professional SQL 🖥️
 
 - Extensive experience in database management and optimization using PostgreSQL.
 - Certified by Oracle for SQL proficiency and best practices.
 
-### Certified C++ Programmer :cPlusPlus:
+### Certified C++ Programmer 🌐
 
 - Developing high-performance applications and systems in C++.
 - Certified in C++ programming for robust software solutions.
-
-### Azure Developer 🔑
 
 - Building and deploying scalable cloud applications on Microsoft Azure.
 - Experienced in integrating Azure services for comprehensive cloud solutions.
